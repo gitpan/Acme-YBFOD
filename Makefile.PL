@@ -8,6 +8,6 @@ unless ($a =~ /^n/i) {
 
 WriteMakefile(
     'NAME'		=> 'Acme::YBFOD',
-    'VERSION'		=> '0.10',
+    'VERSION'		=> '0.11',
     'PREREQ_PM'		=> {Acme::Buffy => 1.2},
 );

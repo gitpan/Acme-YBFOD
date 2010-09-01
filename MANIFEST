@@ -1,8 +1,13 @@
 Changes
-MANIFEST
+inc/Module/Install.pm
+inc/Module/Install/Base.pm
+inc/Module/Install/Makefile.pm
+inc/Module/Install/MakeMaker.pm
+inc/Module/Install/Metadata.pm
+lib/YourBrainForOnceDude.pm
+lib/YourBrainForOnceDude.pod
 Makefile.PL
-Makefile.YBFOD
+MANIFEST			This list of files
+META.yml
 README
-YourBrainForOnceDude.pm
-YourBrainForOnceDude.pod
 test.pl

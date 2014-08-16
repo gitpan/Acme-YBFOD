@@ -9,5 +9,6 @@ Makefile.PL
 README
 lib/YourBrainForOnceDude.pm
 lib/YourBrainForOnceDude.pod
+t/000-compile-modules.t
 t/release-pod-syntax.t
 t/test.t

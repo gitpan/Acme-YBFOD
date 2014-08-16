@@ -25,4 +25,4 @@ resources:
   bugtracker: https://github.com/ingydotnet/acme-ybfod-pm/issues
   homepage: https://github.com/ingydotnet/acme-ybfod-pm
   repository: https://github.com/ingydotnet/acme-ybfod-pm.git
-version: '0.17'
+version: '0.18'
